@@ -1,11 +1,11 @@
 ## canvas-draw-poster.js
 
-+ Poster.js 是一个基于canvas生成海报的插件，支持导出海报图片。
++ canvas-draw-poster.js 是一个基于canvas生成海报的插件，支持导出海报图片。
 
 
 ## install
 ```js
- npm i canvas-poster
+ npm i canvas-draw-poster
 ```
 
 ## use

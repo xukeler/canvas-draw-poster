@@ -1,0 +1,12 @@
+{
+  "name": "canvas-draw-poster",
+  "version": "1.1.0",
+  "keywords": ["海报","canvas","poster"],
+  "description": "Poster.js 是一个基于canvas生成海报的插件，支持导出海报图片。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xukeler",
+  "license": "ISC"
+}
